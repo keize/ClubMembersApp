@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!-- Gender Spinner AddMemberActivity -->
+    <string name="unknown">Unknown</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+    <!-- Set Title AddMemberActivity  -->
+    <string name="add_a_member">Add a member</string>
+    <string name="edit_the_member">Edit the member</string>
+
+
+
+    <!-- Input data Toast AddMemberActivity -->
+    <string name="input_the_first_name">Input the first name</string>
+    <string name="input_the_last_name">Input the last name</string>
+    <string name="input_the_sport_name">Input the sport</string>
+    <string name="input_the_phone">Input phone</string>
+    <string name="input_gender">Choose the gender</string>
+
+
+    <!-- Input data Toast AddMemberActivity -->
+    <string name="insertion_of_data_in_the_table_failed">Insertion of data in the table failed</string>
+    <string name="data_saved">Data saved</string>
+    <string name="saving_of_data_in_the_table_failed">Saving of data in the table failed</string>
+
+    <string name="member_updating">Member updated</string>
+
+
+    <string name="do_you_wand_delete_member">Do you want delete the member?</string>
+
+    <string name="delete_button">Delete</string>
+
+    <string name="cancel_button">Cancel</string>
+    <string name="deleting_of_data_in_the_table_failed">Deleting of data from the table failed</string>
+    <string name="member_is_deleted">Member is deleted</string>
+
+
+</resources>
